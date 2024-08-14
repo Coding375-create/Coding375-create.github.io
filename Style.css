@@ -1,0 +1,9 @@
+#about{
+    margin: 20px;
+    padding:10px;
+    border:5px skyblue;
+    width:100px;
+    height:100px;
+    text-align:justify;
+    float:left;
+}
